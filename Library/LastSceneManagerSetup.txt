@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Simple Bluetooth for android/Demos/Usage Example/Scenes/Main.unity
+- path: "Assets/Scene/\u64CD\u4F5C\u30D1\u30CD\u30EB.unity"
   isLoaded: 1
   isActive: 1
   isSubScene: 0
