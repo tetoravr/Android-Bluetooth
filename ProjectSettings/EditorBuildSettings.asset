@@ -6,12 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scene/VR.unity
+    guid: cf48d2fc253e9e34083ba81449dbb6e1
+  - enabled: 0
+    path: Assets/Scene/ControlPanel.unity
+    guid: ea358f5c13a37e449bef4e2712a25c24
+  - enabled: 0
     path: Assets/Simple Bluetooth for android/Demos/Usage Example/Scenes/Main.unity
     guid: 5ee912e5d6c228c4da0b2ca1d53a001e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Simple Bluetooth for android/Demos/Game Example/Scenes/Menu.unity
     guid: ccbfacc2b8e94c14993b4b8ee3bd42dd
-  - enabled: 1
+  - enabled: 0
     path: Assets/Simple Bluetooth for android/Demos/Game Example/Scenes/GameScene.unity
     guid: da92ce338e5af734190a1fda4eb1e420
   m_configObjects: {}

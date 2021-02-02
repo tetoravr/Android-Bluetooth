@@ -1,5 +1,5 @@
 sceneSetups:
-- path: "Assets/Scene/\u64CD\u4F5C\u30D1\u30CD\u30EB.unity"
+- path: Assets/Scene/VR.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
